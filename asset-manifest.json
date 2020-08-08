@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/venkateshnvr/WorkSpaces.git/static/css/main.f3d4d599.chunk.css",
+    "main.js": "/venkateshnvr/WorkSpaces.git/static/js/main.1b03ee2b.chunk.js",
+    "main.js.map": "/venkateshnvr/WorkSpaces.git/static/js/main.1b03ee2b.chunk.js.map",
+    "runtime-main.js": "/venkateshnvr/WorkSpaces.git/static/js/runtime-main.f8239c66.js",
+    "runtime-main.js.map": "/venkateshnvr/WorkSpaces.git/static/js/runtime-main.f8239c66.js.map",
+    "static/js/2.60a1c6a7.chunk.js": "/venkateshnvr/WorkSpaces.git/static/js/2.60a1c6a7.chunk.js",
+    "static/js/2.60a1c6a7.chunk.js.map": "/venkateshnvr/WorkSpaces.git/static/js/2.60a1c6a7.chunk.js.map",
+    "index.html": "/venkateshnvr/WorkSpaces.git/index.html",
+    "precache-manifest.d7fde430dd14a296dedc358825db09d3.js": "/venkateshnvr/WorkSpaces.git/precache-manifest.d7fde430dd14a296dedc358825db09d3.js",
+    "service-worker.js": "/venkateshnvr/WorkSpaces.git/service-worker.js",
+    "static/css/main.f3d4d599.chunk.css.map": "/venkateshnvr/WorkSpaces.git/static/css/main.f3d4d599.chunk.css.map",
+    "static/js/2.60a1c6a7.chunk.js.LICENSE.txt": "/venkateshnvr/WorkSpaces.git/static/js/2.60a1c6a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8239c66.js",
+    "static/js/2.60a1c6a7.chunk.js",
+    "static/css/main.f3d4d599.chunk.css",
+    "static/js/main.1b03ee2b.chunk.js"
+  ]
+}
