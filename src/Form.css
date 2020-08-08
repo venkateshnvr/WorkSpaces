@@ -1,0 +1,8 @@
+#formSubmit {
+    display: none
+}
+
+.margin {
+    display: flex;
+    justify-content: center;
+}
